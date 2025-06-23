@@ -1,0 +1,8 @@
+# Python dependencies for data processing and statistical analysis
+numpy>=1.24.3
+pandas>=2.0.3
+scipy>=1.10.1
+
+# Note: The project primarily uses R for statistical calculations.
+# Install R and the following R packages:
+# install.packages(c("stats", "nortest"))
